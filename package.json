@@ -1,0 +1,22 @@
+{
+  "name": "com.unity.navmeshcomponents",
+  "displayName": "NavMesh Components,
+  "version": "2.1.0",
+  "description": "An extension project for the Unity3D UI system, all crafted and contributed by the awesome Unity community",
+  "author": "Unity",
+  "contributors": [{
+  "name": "Unity",
+}],
+  "unity": "2019.1",
+  "repository": {
+  "type": "git",
+  "url": "git+https://github.com/nrvllrgrs/NavMeshComponents.git"
+},
+  "keywords": [
+  "Unity3D",
+  "Unity",
+  "AI",
+  "NavMesh"
+], 
+  "license": "BSD3"
+}
