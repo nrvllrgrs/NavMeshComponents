@@ -3,10 +3,7 @@
   "displayName": "NavMesh Components",
   "version": "2.1.0",
   "description": "High Level API Components for Runtime NavMesh Building",
-  "author": "Unity",
-  "contributors": [{
-  "name": "Unity",
-}],
+  "author": "Unity Technologies",
   "unity": "2019.3",
   "repository": {
   "type": "git",
